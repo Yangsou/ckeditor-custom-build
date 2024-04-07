@@ -1,6 +1,7 @@
 {
   "name": "@trungnam/ckeditor-custom-build",
   "version": "1.0.0",
+  "private": false,
   "description": "Customize ckeditor 5 from online built",
   "main": "index.js",
   "scripts": {
@@ -55,5 +56,13 @@
     "webpack-cli": "^4.10.0"
   },
   "author": "Trung Nam",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yangsou/ckeditor-custom-build.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yangsou/ckeditor-custom-build/issues"
+  },
+  "homepage": "https://github.com/Yangsou/ckeditor-custom-build#readme"
 }
